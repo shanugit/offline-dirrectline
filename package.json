@@ -1,0 +1,24 @@
+{
+  "name": "offlineDirectline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [
+    "Sayso",
+    "ChatWindow",
+    "Directline",
+    "Channel",
+    "Bot Framework"
+  ],
+  "author": "Soumya Kanta Dey(24648)",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "offline-directline": "^1.2.6"
+  }
+}
